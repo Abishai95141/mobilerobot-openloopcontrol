@@ -120,7 +120,6 @@ if _name=='main_':
 
 ![robo](/robot.jpg)
 
-1[robo](/robot_side.jpg)
 
 ## MobileRobot Movement Video:
 
